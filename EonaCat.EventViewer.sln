@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EonaCat.EventViewer", "EonaCat.EventViewer\EonaCat.EventViewer.csproj", "{24914F67-C021-48C8-A775-E1EB64895CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Debug|ARM.Build.0 = Debug|Any CPU
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Debug|ARM64.Build.0 = Debug|ARM64
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Debug|x64.ActiveCfg = Debug|x64
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Debug|x64.Build.0 = Debug|x64
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Debug|x86.ActiveCfg = Debug|x86
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Debug|x86.Build.0 = Debug|x86
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Release|ARM.ActiveCfg = Release|ARM32
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Release|ARM.Build.0 = Release|ARM32
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Release|ARM64.ActiveCfg = Release|ARM64
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Release|ARM64.Build.0 = Release|ARM64
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Release|x64.ActiveCfg = Release|x64
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Release|x64.Build.0 = Release|x64
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Release|x86.ActiveCfg = Release|x86
+		{24914F67-C021-48C8-A775-E1EB64895CFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AD5ED7-AEBF-4D83-916B-10E1C3292890}
+	EndGlobalSection
+EndGlobal

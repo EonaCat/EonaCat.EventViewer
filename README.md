@@ -1,2 +1,3 @@
 # EonaCat.EventViewer
-EonaCat.EventViewer
+
+Faster EventViewer for Windows
